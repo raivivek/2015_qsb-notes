@@ -41,7 +41,7 @@ degree of freedom as these tRNA compete for a shared resource.
 
 - loss of regulation
 
-**Translation elongation is a highly regulate process, governing**
+**Translation elongation is a highly regulated process, governing**
 
 - Productivity
 - Folding
