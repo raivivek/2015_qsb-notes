@@ -7,6 +7,8 @@ QSB 2015 Winter School, ICTS
 There were only two lectures scheduled on Saturday. The first one by Tzachi
 Pilpel and second by Suckjoon Jun.
 
+-------------
+
 ### Tzachi Pilpel
 
 Dr. Pilpel continued to explore processes of regulation at translational level,
@@ -45,4 +47,13 @@ cell size homeostasis.
 
 The idea of 'adder theory' is that irrespective of what size a cell is born
 with, it adds a constant amount of volume (lambda) to it. This lambda is
-a characteristic of media and 
+a characteristic of media or the growth nutrients.
+
+Two control parameters are significant (we can know this by doing a pair plot
+and finding out the uncorrelated plots from the figure)
+
+1. Size (delta)
+2. Growth (lambda)
+
+Both of which in turn control the other parameters like birth size, death size,
+cell division time and so on.
