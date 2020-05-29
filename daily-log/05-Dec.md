@@ -1,6 +1,7 @@
 Pre School, Day 1
 ICTS Campus, 05 December 2015
 11.05 PM
+
 I arrived at Yesvantpur Railway Station at 7.15 in the morning, almost exactly the right time for the train. Having traveled through this station often, I knew my way around finding an auto and traveling to IISc even though the driver struggled with the direction. In less than next 20 minutes, I was having my breakfast at 'Prakruthi' near the ATM gate of Indian Institute of Science.
 
 It felt nice to be back in the calm and soothing environment of IISc. The campus is pretty and I find a mysterious sense of comfort here. It is fun to walk through the shaded streets, littered with yellow and pink flowers falling from the adjacent trees. Probably it is this magic that motivated me to walk all the way from the ATM gate to the Old TIFR Centre where I had to board the shuttle.
